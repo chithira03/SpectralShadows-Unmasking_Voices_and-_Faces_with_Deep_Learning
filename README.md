@@ -19,10 +19,10 @@ The extracted frames are then processed using a deep learning model trained to d
 ### Audio Analysis Using MFCC Features
 In addition to video analysis, this project also investigates deepfake detection in audio. Mel-Frequency Cepstral Coefficients (MFCC) are extracted from the audio files to analyze spectral patterns. Deepfake audio often contains anomalies that can be identified using MFCC visualization.
 
-### MFCC plot for a fake audio sample:
+#### MFCC plot for a fake audio sample:
 ![mfcc_fake1](https://github.com/user-attachments/assets/b6f02881-1520-40e8-a371-f6c62c927b64)
 
-### MFCC plot for a real audio sample:
+#### MFCC plot for a real audio sample:
 ![mfcc_real1](https://github.com/user-attachments/assets/bf7e9471-d2d7-4a4b-b26c-ddee699ac5b4)
 
 
